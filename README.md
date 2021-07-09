@@ -18,7 +18,7 @@ The following resources were used to analyze the results:
 ## Results
 **Summary of PyBer Rides**
 \
-![Pyber_Summary_DataFrame.png](Resources/Pyber_Summary_DataFrame.png)
+![Pyber_Summary_DataFrame.png](analysis/Pyber_Summary_DataFrame.png)
 
 Observations:
 
@@ -30,7 +30,7 @@ Observations:
 ***
 **FARES for January 2019 - April 2019**
 
-![PyBer_fare_summary.png](Resources/PyBer_fare_summary.png)
+![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
 
 Observations:
 
